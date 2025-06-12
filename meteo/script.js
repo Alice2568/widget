@@ -1,4 +1,4 @@
-const apiKey = "32a918ccfb931cf74e3466284a79c79e";
+const apiKey = "api.key";
 const ville = "Valence,fr";
 
 async function getMeteo() {
